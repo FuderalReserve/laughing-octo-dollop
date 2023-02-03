@@ -1,0 +1,26 @@
+{
+  "name": "laughing-octo-dollop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FuderalReserve/laughing-octo-dollop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FuderalReserve/laughing-octo-dollop/issues"
+  },
+  "homepage": "https://github.com/FuderalReserve/laughing-octo-dollop#readme",
+  "dependencies": {
+    "@thanpolas/univ3prices": "^3.0.2",
+    "@uniswap/sdk-core": "^3.1.1",
+    "alchemy-sdk": "^2.4.1",
+    "ethers": "^5.7.2"
+  }
+}
